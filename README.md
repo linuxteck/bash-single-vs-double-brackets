@@ -28,7 +28,7 @@ If you remember just this:
 
 > Understanding Bash conditional testing with single and double brackets
 
-![Preview](https://raw.githubusercontent.com/linuxteck/bash-brackets/main/brackets-preview.png)
+![Preview](https://github.com/linuxteck/bash-single-vs-double-brackets/blob/main/16.png)
 
 ---
 
